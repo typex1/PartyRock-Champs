@@ -11,6 +11,8 @@ All apps are public, if not stated otherwise:
   In turn, the only system prompt here is "Based on the user's prompt:" which is as generic as possible!
   "modelName": "bedrock-anthropic.claude-3-5-sonnet-v2-0",
 
-* https://partyrock.aws/u/fspiess/MnqyMNxWc/Kubernetes-Manifest-Generator 
+* K8s Manifest Generator: https://partyrock.aws/u/fspiess/MnqyMNxWc/Kubernetes-Manifest-Generator 
   -> super useful, especially in on-the-fly example creation in an EKS class. So far, I never encountered any mistakes!
-* 
+
+* Call for Papers (CFP) helper created by Brooke Jamieson: https://partyrock.aws/u/brooke/yHmCgdiIO/CFP-Helper/
+  * related article: https://community.aws/content/2pOziGeyjl5wXVmxaL82dpihvq4/10-aws-cfp-ideas-for-2025-how-to-write-your-own-with-partyrock-and-amazon-q
