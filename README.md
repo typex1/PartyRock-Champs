@@ -17,6 +17,8 @@ All apps are public, if not stated otherwise:
 * AWS CLI script generator: https://partyrock.aws/u/fspiess/YOveBtNbW/AWS-CLI-Script-Generator
   creates bash scripts containing one or more AWS CLI commands
 
+* Python Code generator: https://partyrock.aws/u/fspiess/CKEH0xD_u/PyCodeGenerator
+
 * Dockerfile generator and deployment assistant: https://partyrock.aws/u/fspiess/tM63Spm3z/LLM-Dockerfile-Generator-and-Deployment-Guide-Assistant
 
 * Call for Papers (CFP) helper created by Brooke Jamieson: https://partyrock.aws/u/brooke/yHmCgdiIO/CFP-Helper/
